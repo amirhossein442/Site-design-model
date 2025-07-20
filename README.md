@@ -1,3 +1,3 @@
 
 
-![تصویر](/pictuer/Captuer.JPG)
+![تصویر](/pictuer/Capture.JPG)
